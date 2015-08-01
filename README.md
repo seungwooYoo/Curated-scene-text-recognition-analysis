@@ -3,7 +3,7 @@
 -----
 
 ## Contributing
-Please feel free to [pull requests](), email seungwoo.yoo@gmail.com.
+Please feel free to [pull requests](https://github.com/seungwooYoo/curated-scene-text-recognition-analysis/pulls), email seungwoo.yoo@gmail.com.
 
 
 ### Datasets
