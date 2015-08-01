@@ -1,10 +1,9 @@
 # Curated-scene-text-recognition-analysis
 
------
-
 ## Contributing
 Please feel free to [pull requests](https://github.com/seungwooYoo/curated-scene-text-recognition-analysis/pulls), email seungwoo.yoo@gmail.com.
 
+--------------------
 
 ### Datasets
 1. [Oxford Dataset](http://www.robots.ox.ac.uk/~vgg/data/text/) Synthetic word / character datasets. Containing 9M images covering 90k English words. Introduced in the "*M. Jadderberg, and Vedaldi, A. and Zisserman, A.*  Deep Features for Text Spotting, ECCV14"
@@ -16,6 +15,8 @@ Please feel free to [pull requests](https://github.com/seungwooYoo/curated-scene
 6. [SIW-10](http://mc.eistar.net/~xbai/mspnProjectPage/) Script identification datasets - 13,045 multi-scripts text line images in 10 classes, cropped from 7,700 full images taken in-the-wild (Google street view). Introduced in the "*Baoguang Shi, Cong Yao, Chengquan Zhang, Xiaowei Guo, Feiyue Huang, Xiang Bai*, Automatic Script Identification in the Wild. ICDAR 2015"
 7. [Text/Nontext scene dataset](http://mc.eistar.net/~xbai/textDis/textDis.html) Contains 5302 text images and 6000 non-text images, while the testing set contains 2000 text images and 2000 non-text images. Introduced in "*Chengquan Zhang, Cong Yao, Baoguang Shi, Xiang Bai*, Automatic Discrimination of Text and Non-Text Natural Images, ICDAR 2015"
 
+-------------------
+
 
 ### Open-source
 
@@ -25,6 +26,9 @@ Please feel free to [pull requests](https://github.com/seungwooYoo/curated-scene
 4. [ocrDemo](https://github.com/ptommassen/ocr-demo) OCR-implementation in Android using OpenCV and Tesseract  
 5. [LTPTextDetector](https://github.com/mop/LTPTextDetector) Text detector written in C++. Introduced in "*Michael Opitz, Markus Diem, Markus Diem, Florian Kleber, Stefan Fiel and Robert Sablatnig*, End-to-End Text Recognition using Local Ternary Patterns, MSER and Deep Convolutional Neural Networks, DAS 2014. 
 5. [Vuforia Text Recognition](https://developer.vuforia.com/library/articles/Training/Text-Recognition-Guide) Qualcomm Vuforia Text recognition SDK. Support custom word lists, various fonts and styles. 
+
+---------------------
+
 
 ### Miscellaneous
 1. [IAPR TC11 Dataset List](http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List) International Association for Pattern Recognition, Technical Committee 11. Well documented and summarized various datasets and tools for document recognition and analysis
