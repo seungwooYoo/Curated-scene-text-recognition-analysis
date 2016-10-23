@@ -32,3 +32,7 @@ Please feel free to [pull requests](https://github.com/seungwooYoo/curated-scene
 
 ### Miscellaneous
 1. [IAPR TC11 Dataset List](http://www.iapr-tc11.org/mediawiki/index.php/Datasets_List) International Association for Pattern Recognition, Technical Committee 11. Well documented and summarized various datasets and tools for document recognition and analysis
+
+
+---------------------
+### Paper
